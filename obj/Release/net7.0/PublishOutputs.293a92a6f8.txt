@@ -1,0 +1,7 @@
+C:\Users\Zhircon\Dropbox\Desarrollo Web\googlemaps\bin\Release\net7.0\publish\googlemaps.exe
+C:\Users\Zhircon\Dropbox\Desarrollo Web\googlemaps\bin\Release\net7.0\publish\appsettings.Development.json
+C:\Users\Zhircon\Dropbox\Desarrollo Web\googlemaps\bin\Release\net7.0\publish\appsettings.json
+C:\Users\Zhircon\Dropbox\Desarrollo Web\googlemaps\bin\Release\net7.0\publish\googlemaps.dll
+C:\Users\Zhircon\Dropbox\Desarrollo Web\googlemaps\bin\Release\net7.0\publish\googlemaps.deps.json
+C:\Users\Zhircon\Dropbox\Desarrollo Web\googlemaps\bin\Release\net7.0\publish\googlemaps.runtimeconfig.json
+C:\Users\Zhircon\Dropbox\Desarrollo Web\googlemaps\bin\Release\net7.0\publish\googlemaps.pdb
